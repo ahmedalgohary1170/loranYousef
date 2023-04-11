@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Loran Yousef&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" />
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Loran_Yousef&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zid95&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
